@@ -1,0 +1,15 @@
+Metric          Performance     Performance Std. Dev.    
+Accuracy        0.9011          0.004029                 
+F1              0.9009          0.004025                 
+Precision       0.9007          0.004093                 
+Recall          0.9014          0.003922                 
+Metric          Performance     Performance Std. Dev.    
+Accuracy        0.8820          0.008574                 
+F1              0.8818          0.008676                 
+Precision       0.8818          0.008746                 
+Recall          0.8825          0.008213                 
+Metric          Performance     Performance Std. Dev.    
+Accuracy        0.8995          0.006304                 
+F1              0.8993          0.006423                 
+Precision       0.8994          0.006191                 
+Recall          0.8998          0.006799                 
